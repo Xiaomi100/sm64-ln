@@ -4,3 +4,7 @@
  Install python3 and MSYS2.
  `sudo apt install python3`
  MSYS2 found on [this site](https://www.msys2.org/)
+ After this, run:
+ `python3 installer.py`
+ After installing, run the compiled PY:
+ `python3 <language>.py`
