@@ -4,11 +4,12 @@
  Install python3 and MSYS2.
  `sudo apt install python3`
  MSYS2 found on [this site](https://www.msys2.org/).
- After this, run:
- `python3 installer.py`
  After installing, run the compiled PY:
- `python3 <language>.py`
+ `python3 launcherlinux.py`
  You get the launcher!
 # Installing on windows
- All same as linux install, except you need install python3 [here](https://www.python.org/)
+ All same as linux install, except you need install python3 [here](https://www.python.org/)...
+
+
+ And run launcherwindows.py.
 # Compiling SM64
